@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kyouma/dev/main/exploration_ws/devel/include/**",
+        "/home/kyouma/dev/main/prj_ws/devel/include/**",
+        "/home/kyouma/dev/main/dev_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/active_perception/include/**",
+        "/home/kyouma/dev/main/prj_ws/src/apriltags_ros/apriltags/include/**",
+        "/home/kyouma/dev/main/prj_ws/src/apriltags_ros/apriltags_ros/include/**",
+        "/home/kyouma/dev/main/dev_ws/src/arithmetic_node/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/bspline/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/bspline_opt/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/VINS-Fusion/camera_models/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/ceres-solver/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/exploration_manager/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/utils/lkh_tsp_solver/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/uav_simulator/local_sensing/include/**",
+        "/home/kyouma/dev/main/prj_ws/src/motion_decoder/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/uav_simulator/Utils/multi_map_server/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/path_searching/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/plan_env/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/plan_manage/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/poly_traj/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/uav_simulator/Utils/pose_utils/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/uav_simulator/Utils/quadrotor_msgs/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/realsense-ros/realsense2_camera/include/**",
+        "/home/kyouma/dev/main/mrsd_ws/src/skild_practice/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/uav_simulator/so3_control/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/uav_simulator/so3_disturbance_generator/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/fuel_planner/traj_utils/include/**",
+        "/home/kyouma/dev/main/exploration_ws/src/FUEL/uav_simulator/Utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
