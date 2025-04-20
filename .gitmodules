@@ -4,3 +4,9 @@
 [submodule "ros_ws/src/px4_msgs"]
 	path = ros_ws/src/px4_msgs
 	url = https://github.com/kavin-cmu/px4_msgs.git
+[submodule "ros_ws/ros_ws/src/px4_ros_com"]
+	path = ros_ws/ros_ws/src/px4_ros_com
+	url = https://github.com/kavin-cmu/px4_ros_com.git
+[submodule "ros_ws/src/px4_ros_com"]
+	path = ros_ws/src/px4_ros_com
+	url = https://github.com/kavin-cmu/px4_ros_com.git
