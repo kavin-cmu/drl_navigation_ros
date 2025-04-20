@@ -1,0 +1,6 @@
+[submodule "Micro-XRCE-DDS-Agent"]
+	path = Micro-XRCE-DDS-Agent
+	url = https://github.com/kavin-cmu/Micro-XRCE-DDS-Agent.git
+[submodule "PX4-Autopilot"]
+	path = PX4-Autopilot
+	url = https://github.com/kavin-cmu/PX4-Autopilot.git
